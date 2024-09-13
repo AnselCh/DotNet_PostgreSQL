@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RbILPqB5KqR9qxBWS770LP7BUvlWFwjkBOblgg7ZKgw=",
+  "Source": "postgresqlSP",
+  "BasePath": "_content/postgresqlSP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
